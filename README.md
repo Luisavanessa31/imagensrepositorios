@@ -1,4 +1,6 @@
-# imagensrepositorios --- EM CONSTRUÇÃO, CONCLUÍDO EM BREVE ---
+# imagensrepositorios 
+--- EM CONSTRUÇÃO, IRÁ SER CONCLUÍDO EM BREVE ---
+
 Projeto 1 - Projeto Integrado 6º Semestre
 
 Sistema completo de integração de dados para análise acadêmica e gestão de projetos.
