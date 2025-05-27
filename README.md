@@ -1,4 +1,4 @@
-# imagensrepositorios
+# imagensrepositorios --- EM CONSTRUÇÃO, CONCLUÍDO EM BREVE ---
 Projeto 1 - Projeto Integrado 6º Semestre
 
 Sistema completo de integração de dados para análise acadêmica e gestão de projetos.
@@ -48,3 +48,24 @@ Coleção de algoritmos de aprendizado de máquina com aplicações práticas.
     Painel 2
 
     Painel 3
+
+
+✅ Projeto 6 - Sistema Completo de Vendas
+
+▶️ Painel 1
+▶️ Painel 2
+▶️ Painel 3
+
+
+✅ Projeto 7 - Análise Exploratória de Dados
+
+▶️ Painel 1
+▶️ Painel 2
+▶️ Painel 3
+
+
+✅ Projeto 8 - Predição de Vendas com Machine Learning
+
+▶️ Painel 1
+▶️ Painel 2
+▶️ Painel 3
